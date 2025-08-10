@@ -26,11 +26,3 @@ It’s built to be **fast, responsive, and beginner-friendly**, so whether you�
 
 ---
 
-## 📦 Installation & Setup
-
-Follow these steps to run CodeColab locally:
-
-### 1️⃣ Clone the Repository
-```bash
-git clone https://github.com/your-username/CodeColab.git
-cd CodeColab
