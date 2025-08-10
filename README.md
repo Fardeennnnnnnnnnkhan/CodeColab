@@ -1,34 +1,36 @@
-# 🚀 CodeCoalb
+# 🚀 CodeColab
 
-![License](https://img.shields.io/badge/license-MIT-blue.svg)
-![Version](https://img.shields.io/badge/version-1.0.0-green.svg)
-![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)
-
-CodeCoalb is an innovative platform for collaborative coding and sharing projects seamlessly.  
-It provides developers with an interactive and efficient environment to contribute, learn, and grow together.
+CodeColab is a **real-time collaborative code editor** that lets multiple developers code together seamlessly.  
+It’s built to be **fast, responsive, and beginner-friendly**, so whether you’re pair programming, doing interviews, or teaching, CodeColab has you covered.
 
 ---
 
-## 📌 Features
-- 💻 **Collaborative Coding** – Work together in real-time
-- 📂 **Project Management** – Keep your work organized
-- 🔒 **Secure Environment** – Your code stays safe
-- 🌍 **Community-Driven** – Learn & share with others
+## ✨ Features
+
+- 📡 **Real-Time Collaboration** — Code with your friends or teammates instantly.
+- 🎨 **Syntax Highlighting** — Clean and colorful editor for better readability.
+- 🔒 **Secure Rooms** — Join via unique room IDs to keep your session private.
+- 📝 **Multi-Language Support** — Write and run code in different languages.
+- ⚡ **No Refresh Needed** — Instant updates across all connected users.
+- 💾 **Session Persistence** — Keeps code safe even if you disconnect.
 
 ---
 
-## 📦 Installation
+## 📂 Tech Stack
 
-Make sure you have **Node.js** (v16+) and **npm** or **yarn** installed.
+- **Frontend:** React, Tailwind CSS
+- **Backend:** Node.js, Express
+- **Real-Time Communication:** Socket.IO
+- **Editor:** Monaco / CodeMirror
+- **Others:** WebSockets, REST APIs
 
+---
+
+## 📦 Installation & Setup
+
+Follow these steps to run CodeColab locally:
+
+### 1️⃣ Clone the Repository
 ```bash
-# Clone this repository
-git clone https://github.com/your-username/CodeCoalb.git
-
-# Navigate into the project folder
-cd CodeCoalb
-
-# Install dependencies
-npm install
-# or
-yarn install
+git clone https://github.com/your-username/CodeColab.git
+cd CodeColab
